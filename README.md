@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭I’m Kanistan_06, a Computer Engineering student passionate about technology and innovation.<br><br>💻 I’m interested in Web Development and Software Development, and I’m currently exploring the exciting fields of AI, Machine Learning (ML), and Deep Learning (DL).<br><br>🌱 I’m always learning and building projects to enhance my skills. <br><br>👯 Let’s connect and collaborate on cool ideas!
+🔭I’m Kanistan_06, a Computer Engineering student passionate about technology and innovation.<br><br>💻 I’m interested in Web Development and Software Development.<br><br>🌱 I’m currently exploring the exciting fields of AI, Machine Learning (ML), and Deep Learning (DL).<br><br>🌱 I’m always learning and building projects to enhance my skills. <br><br>👯 Let’s connect and collaborate on cool ideas!
 
 
 ## 🌐 Socials:
